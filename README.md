@@ -1,2 +1,9 @@
-# Landing-Page-V2
-Landing Page Project V2
+# The General Text
+this is the landing page project readme
+
+## the languages used:
+- HTML
+- CSS
+- JAVASCRIPT
+
+
